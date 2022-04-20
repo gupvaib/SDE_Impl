@@ -15,7 +15,7 @@ python main.py
 
 
 
-![Infra Schematic Diagram drawio](https://user-images.githubusercontent.com/104094929/164294688-0e5ff5b9-ab27-436d-8948-1d19f7d1f571.png)
+
 
 ## Package Diagram 
 
@@ -23,7 +23,7 @@ python main.py
 
 ## Infra Multi Node 
 
-![Infra Schematic Diagram single node drawio](https://user-images.githubusercontent.com/104094929/164294682-1ee44203-917e-4a56-833c-9acdce8e9651.png)
+![Infra Schematic Diagram drawio](https://user-images.githubusercontent.com/104094929/164294688-0e5ff5b9-ab27-436d-8948-1d19f7d1f571.png)
 
 ## Infra Single Node 
 
